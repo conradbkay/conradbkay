@@ -1,3 +1,3 @@
 # Hi
 
-[Blog](https://conradbkay.github.io/blog)
+Blog: <https://www.conradkay.com>
