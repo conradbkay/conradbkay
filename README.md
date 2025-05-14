@@ -1,3 +1,3 @@
 # Hi
 
-Blog: <https://www.conradkay.com>
+<https://blog.conradkay.com>
